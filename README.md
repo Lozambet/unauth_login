@@ -7,7 +7,7 @@ Script PowerShell per invio automatico di email all'accesso utente.
 
 Clona il repository:
 
-```bash
+```
 git clone https://github.com/username/unauth_login.git
 cd unauth_login
 ```
