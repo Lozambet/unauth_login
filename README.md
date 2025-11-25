@@ -1,4 +1,4 @@
-```markdown
+
 # unauth_login
 
 Script PowerShell per invio automatico di email all'accesso utente.
@@ -16,7 +16,7 @@ cd unauth_login
 
 Apri il file **`unauth_login.ps1`** e imposta i parametri SMTP:
 
-```powershell
+```
 $EmailFrom    = "tuo@email.com"
 $EmailTo      = "destinatario@email.com"
 $SMTPServer   = "smtp.gmail.com"
